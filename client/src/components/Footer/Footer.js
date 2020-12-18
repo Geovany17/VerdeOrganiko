@@ -13,7 +13,7 @@ const Footer = () => (
         <br /> Follow us on Instagram
       </h3>
       <Button
-        href="https://www.instagram.com/verde_organiko/"
+        href="https://i.ibb.co/nnyK2qW/circle-cropped.png"
         className="ui instagram button"
         basic
         ui
